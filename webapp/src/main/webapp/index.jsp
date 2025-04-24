@@ -1,11 +1,13 @@
 <form action="action_page.php">
   <div class="container">
+    <h1>I Love My Wife Anitha</h1>
+
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name like Anitha</b></label>
-    <input type="text" placeholder="Enter Kumar" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter somenames like Anitha" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
