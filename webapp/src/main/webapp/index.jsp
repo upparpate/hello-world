@@ -19,7 +19,7 @@
     <br>
 
     <label for="psw"><b>plz enter the password.... <b></label>
-    <input type="password" placeholder="Enter Password blabl....asf" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Password blabl....asadsff" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
